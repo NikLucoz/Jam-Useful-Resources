@@ -1,6 +1,6 @@
-# Jam-Usefull-Resources
-This list of usefull resources should help you with your first Game Jam! Don't worry you got it!
-> Most of the resources of this list are free to use. Some of them also contain paid plans but you probably don't need it.
+# Jam-Useful-Resources
+This list of useful resources should help you with your first Game Jam! Don't worry you got this!
+> Most of the resources in this list are free to use. Some also offer paid plans, but you probably won't need them.
 
 ## **Game Engines**
 - [Unity](https://unity.com/)
@@ -21,10 +21,10 @@ This list of usefull resources should help you with your first Game Jam! Don't w
 ### **Unreal**
 - [Unreal Directory](https://github.com/cindustries/unreal-directory) (List of resources for Unreal)
 - [Awesome UE4](https://github.com/terrehbyte/awesome-ue4) (List of resources for Unreal 4)
-- [Unreal Sensei](https://www.youtube.com/@UnrealSensei) (Youtuber with crazy usefull tutorials!)
+- [Unreal Sensei](https://www.youtube.com/@UnrealSensei) (Youtuber with crazy useful tutorials!)
 
 ## **Prototyping Tools**
-- [Arc Weave](https://arcweave.com/) (Interactive Story Planner)
+- [Arc Weave](https://arcweave.com/) (Interactive story planner)
 - [Twine](https://twinery.org/) (Interactive storytelling)
 - [Ink](https://www.inklestudios.com/ink/) (Interactive writing)
 - [Machinations.io](https://machinations.io/) (Game economy models)
