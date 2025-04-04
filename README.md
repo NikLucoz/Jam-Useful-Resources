@@ -13,6 +13,7 @@ This list of useful resources should help you with your first Game Jam! Don't wo
 - [1h How to make a Video Game - Godot Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0&t=2s) (Brakey's Godot 2D tutorial)
 - [1h How to make 3D Games in Godot](https://www.youtube.com/watch?v=ke5KpqcoiIU) (Brakey's Godot 3D tutorial)
 - [How to program in Godot - GDScript Tutorial](https://www.youtube.com/watch?v=e1zJS31tr88) (Brakey's GDScript Tutorial)
+- [Godot tutorials](https://www.gdquest.com/tutorial/godot/) (GD Quest tutorials)
 
 ### **Unity**
 - [The Unity Tutorial For Complete Beginners](https://www.youtube.com/watch?v=XtQMytORBmM&pp=ygUOdW5pdHkgdHV0b3JpYWw%3D) (Game Maker's Toolkit's Tutorial on Unity)
